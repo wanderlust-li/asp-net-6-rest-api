@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WTxGEoASWlAQTLDIRteFEvI7fYZXRWZVNlnGJgdtOsc=",
+  "Source": "HotelBooks_API",
+  "BasePath": "_content/HotelBooks_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
